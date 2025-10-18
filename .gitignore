@@ -1,0 +1,13 @@
+# Secrets - NEVER commit these
+config.py
+
+# Environment folder - this is specific to your machine
+venv/
+venv1/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# OS-specific files
+.DS_Store
