@@ -22,7 +22,7 @@ Python 3.10+
 An active internet connection (for the initial model download)
 Accounts for Pinecone and Neo4j (AuraDB free tier is sufficient)
 Step 1: Clone the Repository
-git clone [https://github.com/mudxssir/blue-enigma-hybrid-ai-challenge.git](https://github.com/mudxssir/blue-enigma-hybrid-ai-challenge.git)
+git clone [https://github.com/mudxssir/HybridAi.git](https://github.com/mudxssir/HybridAi.git)
 cd blue-enigma-hybrid-ai-challenge
 
 Step 2: Create and Activate a Virtual Environment
