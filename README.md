@@ -216,4 +216,6 @@ HybridAI/
 ## **14. License**
 **MIT License**  
 
-Permission is granted to use, copy, and modify this project for research or commercial purposes **with attribution**.
+This software is for personal, educational, or research purposes only.  
+Any commercial or redistribution use requires prior written consent from the author.
+
